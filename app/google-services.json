@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "99954901405",
+    "project_id": "lastdance-27ca4",
+    "storage_bucket": "lastdance-27ca4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:99954901405:android:d08aa9444fd3c907d32f74",
+        "android_client_info": {
+          "package_name": "com.example.lastdance"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMqIVrjWxd_ohfi0a4AzhZGtHaaS2b7pI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
